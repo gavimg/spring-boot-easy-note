@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: easy-notes
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Hi
+Implementation-Vendor-Id: com.gavi
+Build-Jdk: 1.8.0_40
+Implementation-URL: http://projects.spring.io/spring-boot/easy-notes/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
